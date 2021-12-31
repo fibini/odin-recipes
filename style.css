@@ -13,7 +13,18 @@
 }
 /* pizza.html */
 
+.pizsize{
+    height: auto;
+    width: 250px;
+}
+
 .des{
     font-size: 20px;
     color: #ff9900e7;
 }
+
+.whatabout{
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+/*tangy-glazed-ham.html*/
